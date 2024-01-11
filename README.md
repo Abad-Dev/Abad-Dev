@@ -59,64 +59,75 @@ Frontend para el negocio Larahost hecha con Html, Css y Javascript
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
 
-
+<a href="https://larahost.net/" target="_blank">
 <p align="center">
     <img src="images/larahost.png">
 </p>
+</a>
 
 ### 2. [GuiaCalidad](https://guiacalidad.com.pe)
 Front Page para el negocio Guiacalidad hecha con Wordpress
 
+<a href="https://guiacalidad.com.pe" target="_blank">
 <p align="center">
     <img src="images/guiacalidad.png">
 </p>
-
+</a>
 
 ### 3. [Front-On](https://fronton.com.pe)
 Página y Catálogo para el negocio Front-On hecha con Wordpress
 
+<a href="https://fronton.com.pe" target="_blank">
 <p align="center">
     <img src="images/fronton.png">
 </p>
+</a>
 
 ### 4. [Humanase](https://humanase.com)
 Página para el negocio Humanase hecha con Svelte SPA-Router
 
 Link al repositorio de Github: https://github.com/Abad-Dev/SPARouter-Svelte-Pages/tree/humanase
 
+
+<a href="https://humanase.com" target="_blank">
 <p align="center">
     <img src="images/humanase.png">
 </p>
-
+</a>
 
 ### 5. [Eleomartt](https://eleomartt.com)
 Página para el negocio Eleomartt hecha con Svelte
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Eleomartt
 
+<a href="https://eleomartt.com" target="_blank">
 <p align="center">
     <img src="images/eleomartt.png">
 </p>
 
+</a>
 
 ### 6. [BlazorWASM](https://jm-delivery.com)
 Proyecto personal de un curso de Platzi que usa una API para hacer un CRUD, todo con Blazor Web Assembly.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/WASM-Platzi
 
+<a href="https://jm-delivery.com" target="_blank">
 <p align="center">
     <img src="images/blazor.png">
 </p>
+</a>
 
 ### 7. [Clean](https://larahost.net/clean)
 Proyecto personal en forma de juego donde practico mis habilidades con Svelte.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/clean
 
+<a href="https://larahost.net/clean" target="_blank">
 <p align="center">
     <img src="https://raw.githubusercontent.com/Abad-Dev/clean/main/images/prev.png">
 </p>
-
+</a>
 
 ### Backend
 
