@@ -3,6 +3,15 @@
 Bienvenido a mi pagina!
 Soy Fabian, Fullstack developer de Lima, Perú 🇵🇪.
 
+### Contactos:
+Pueden contactarme a través de mi correo:
+<br>
+jfabianabadd@gmail.com
+
+O a través de mi número telefónico:
+<br>
+[+51 922266582](tel:922266582)
+
 
 ### Tecnologías con las que programo:
 
