@@ -47,6 +47,11 @@ O a través de mi número telefónico:
 <img style="margin: 5px;" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
 </div>
 <div style="clear: both;"></div>
 
