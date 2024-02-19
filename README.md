@@ -112,12 +112,12 @@ Link al repositorio de Github: https://github.com/Abad-Dev/Eleomartt
 
 </a>
 
-### 6. [BlazorWASM](https://jm-delivery.com)
+### 6. BlazorWASM
 Proyecto personal de un curso de Platzi que usa una API para hacer un CRUD, todo con Blazor Web Assembly.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/WASM-Platzi
 
-<a href="https://jm-delivery.com" target="_blank">
+<a href="https://github.com/Abad-Dev/WASM-Platzi" target="_blank">
 <p align="center">
     <img src="images/blazor.png">
 </p>
