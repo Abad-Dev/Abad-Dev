@@ -52,6 +52,8 @@ O a través de mi número telefónico:
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
+<img style="margin: 5px;" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+
 </div>
 <div style="clear: both;"></div>
 
