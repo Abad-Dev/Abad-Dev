@@ -54,6 +54,10 @@ O a través de mi número telefónico:
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 
+<img style="margin: 5px;" src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
 </div>
 <div style="clear: both;"></div>
 
