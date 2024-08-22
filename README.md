@@ -74,7 +74,17 @@ O a través de mi número telefónico:
 
 ### Frontend:
 
-### 1. [Larahost](https://guiacalidad.com.pe/larahost)
+### 1. [GCI - Catálogo Web](https://guiacalidad.com.pe/catalogo-web)
+Catálogo de servicios para el negocio GCI, una sub-empresa de GuiaCalidad.
+Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
+
+<a href="https://guiacalidad.com.pe/catalogo-web" target="_blank">
+<p align="center">
+    <img src="images/gci.png">
+</p>
+</a>
+
+### 2. [Larahost](https://guiacalidad.com.pe/larahost)
 Frontend para el negocio Larahost hecha con Html, Css y Javascript
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
@@ -85,7 +95,7 @@ Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
 </p>
 </a>
 
-### 2. [GuiaCalidad](https://guiacalidad.com.pe)
+### 3. [GuiaCalidad](https://guiacalidad.com.pe)
 Front Page para el negocio Guiacalidad hecha con Wordpress
 
 <a href="https://guiacalidad.com.pe" target="_blank">
@@ -94,7 +104,7 @@ Front Page para el negocio Guiacalidad hecha con Wordpress
 </p>
 </a>
 
-### 3. [Front-On](https://fronton.com.pe)
+### 4. [Front-On](https://fronton.com.pe)
 Página y Catálogo para el negocio Front-On hecha con Wordpress
 
 <a href="https://fronton.com.pe" target="_blank">
@@ -103,7 +113,16 @@ Página y Catálogo para el negocio Front-On hecha con Wordpress
 </p>
 </a>
 
-### 4. [Humanase](https://humanase.com)
+### 5. [Lapalissianno](https://lapalissianno.com)
+Página web con tienda virtual, métodos de pago y más, utilizando el plugin WooCommerce de Wordpress para el negocio de ropa Lapalissianno
+
+<a href="https://lapalissianno.com" target="_blank">
+<p align="center">
+    <img src="images/lapalissianno.png">
+</p>
+
+
+### 6. [Humanase](https://humanase.com)
 Página para el negocio Humanase hecha con Svelte SPA-Router
 
 Link al repositorio de Github: https://github.com/Abad-Dev/SPARouter-Svelte-Pages/tree/humanase
@@ -115,7 +134,7 @@ Link al repositorio de Github: https://github.com/Abad-Dev/SPARouter-Svelte-Page
 </p>
 </a>
 
-### 5. [Eleomartt](https://eleomartt.com)
+### 7. [Eleomartt](https://eleomartt.com)
 Página para el negocio Eleomartt hecha con Svelte
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Eleomartt
@@ -127,7 +146,7 @@ Link al repositorio de Github: https://github.com/Abad-Dev/Eleomartt
 
 </a>
 
-### 6. BlazorWASM
+### 8. BlazorWASM
 Proyecto personal de un curso de Platzi que usa una API para hacer un CRUD, todo con Blazor Web Assembly.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/WASM-Platzi
@@ -138,7 +157,7 @@ Link al repositorio de Github: https://github.com/Abad-Dev/WASM-Platzi
 </p>
 </a>
 
-### 7. [Clean](https://guiacalidad.com/clean)
+### 9. [Clean](https://guiacalidad.com/clean)
 Proyecto personal en forma de juego donde practico mis habilidades con Svelte.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/clean
