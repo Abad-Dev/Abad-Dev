@@ -142,7 +142,7 @@ Proyecto personal en forma de juego donde practico mis habilidades con Svelte.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/clean
 
-<a href="https://larahost.net/clean" target="_blank">
+<a href="https://guiacalidad.com/clean" target="_blank">
 <p align="center">
     <img src="https://raw.githubusercontent.com/Abad-Dev/clean/main/images/prev.png">
 </p>
