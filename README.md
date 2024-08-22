@@ -78,7 +78,7 @@ Frontend para el negocio Larahost hecha con Html, Css y Javascript
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
 
-<a href="https://larahost.net/" target="_blank">
+<a href="https://guiacalidad.com.pe/larahost" target="_blank">
 <p align="center">
     <img src="images/larahost.png">
 </p>
