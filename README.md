@@ -36,8 +36,6 @@ O a través de mi número telefónico:
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 
-<img style="margin: 5px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-
 <img style="margin: 5px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
@@ -58,6 +56,16 @@ O a través de mi número telefónico:
 
 <img style="margin: 5px;" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
+<img style="margin: 5px;" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img style="margin: 5px;" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+
+
+
 </div>
 <div style="clear: both;"></div>
 
@@ -65,7 +73,7 @@ O a través de mi número telefónico:
 
 ### Frontend:
 
-### 1. [Larahost](https://larahost.net/)
+### 1. [Larahost](https://guiacalidad.com.pe/larahost)
 Frontend para el negocio Larahost hecha con Html, Css y Javascript
 
 Link al repositorio de Github: https://github.com/Abad-Dev/Front-LaraHost
@@ -129,7 +137,7 @@ Link al repositorio de Github: https://github.com/Abad-Dev/WASM-Platzi
 </p>
 </a>
 
-### 7. [Clean](https://larahost.net/clean)
+### 7. [Clean](https://guiacalidad.com/clean)
 Proyecto personal en forma de juego donde practico mis habilidades con Svelte.
 
 Link al repositorio de Github: https://github.com/Abad-Dev/clean
